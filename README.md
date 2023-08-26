@@ -25,7 +25,7 @@ The original objective function optimization is a nonlinear mixed integer proble
 
 Additionally, I set the number of depots and refineries to the bare minimum required to process 80% of the total biomass. Incorporating these values directly into the genetic algorithm might be a possible enhancement.
 
-Just run increase the population size or number of generations.
+Just increase the population size or number of generations.
 
 ## Notes on performance:
 Both genetic algorithms were executed for 150 generations with a population size of 1000 individuals. Here are the obtained scores:
